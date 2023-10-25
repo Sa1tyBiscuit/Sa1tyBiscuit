@@ -9,7 +9,7 @@
 - 📫 How to reach me: DM me on linkedin https://www.linkedin.com/in/bingxianlee/
 
 - ⚡ Fun fact: ...
---> I enjoy hiking and travelling!
+--> I enjoy hiking, swimming and tennis!
 <!--
 **Sa1tyBiscuit/Sa1tyBiscuit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
