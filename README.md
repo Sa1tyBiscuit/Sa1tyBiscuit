@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: DM me on linkedin https://www.linkedin.com/in/bingxianlee/
 
 - ⚡ Fun fact: ...
---> I enjoy hiking and travelling!
+
