@@ -8,9 +8,23 @@
   <br/>
   <div>
      <href = "https://ileriayo.github.io/markdown-badges/" />
-     <img src="https://img.shields.io/badge/PyTorch-F16529?style=for-the-badge&logo=pytorch&logoColor=white" />
-    <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" />
+     <img src="https://img.shields.io/badge/PyTorch-F16529?style=for-the-badge&logo=pytorch&logoColor=white"/>
+    <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/>
   </div>
 </details>
+
+<details>
+  <summary>
+    I am familiar with 
+  </summary>
+  <br/>
+  <div>
+     <href = "https://ileriayo.github.io/markdown-badges/" />
+     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  </div>
+</details>
+
 
 <ref>
