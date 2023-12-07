@@ -9,7 +9,8 @@
   <div>
      <href = "https://ileriayo.github.io/markdown-badges/" />
      <img src="https://img.shields.io/badge/PyTorch-F16529?style=for-the-badge&logo=pytorch&logoColor=white"/>
-    <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/>
+     <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/>
+     <img src = "![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)"/>
   </div>
 </details>
 
