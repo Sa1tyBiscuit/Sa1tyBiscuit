@@ -11,6 +11,7 @@
      <img src = "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
      <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/>
      <img src="https://img.shields.io/badge/PyTorch-F16529?style=for-the-badge&logo=pytorch&logoColor=white"/>
+     <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   </div>
 </details>
 
