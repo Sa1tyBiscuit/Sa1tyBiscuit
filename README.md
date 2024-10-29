@@ -3,7 +3,7 @@
 
 <details>
   <summary>
-    I am currently learning
+    I enjoy reading up on new programming languages and frameworks and am currently learning
   </summary>
   <br/>
   <div>
@@ -17,7 +17,7 @@
 
 <details>
   <summary>
-    I am familiar with 
+    I have worked and am familiar with 
   </summary>
   <br/>
   <div>
