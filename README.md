@@ -1,26 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5BF76E&random=false&width=435&lines=%E4%BD%A0%E5%A5%BD!+%F0%9F%91%8B+%2C+Welcome+to+my+github;Welcome+to+my+github+page)](https://git.io/typing-svg)
 
-<style>
-        /* Optional styling to align and format quotes */
-        .quote-list {
-            list-style-type: none;
-            padding: 0;
-            margin: 0;
-        }
-        .quote-item {
-            margin-bottom: 1em;
-            font-family: Arial, sans-serif;
-        }
-        .quote-text {
-            font-weight: bold;
-        }
-        .author {
-            font-style: italic;
-            display: block;
-            margin-top: 0.5em;
-            text-align: right;
-        }
-</style>
 
 <details>
   <summary>
@@ -56,18 +35,14 @@
   </summary>
   <br/>
   <div>
-  <ul class="quote-list">
-    <li class="quote-item">
-        <span class="quote-text">"Bad programmers worry about the code. Good programmers worry about data structures and their relationships."</span>
-        <span class="author">— Linus Torvalds</span>
+  <ul>
+    <li>
+      "Bad programmers worry about the code. Good programmers worry about data structures and their relationships." Linus Torvalds
     </li>
-    <li class="quote-item">
-        <span class="quote-text">"You can't go back and change the beginning, but you can start where you are and change the ending."</span>
-        <span class="author">— C.S. Lewis</span>
+    <li>
+       "You can't go back and change the beginning, but you can start where you are and change the ending." C.S Lewis
     </li>
   </ul>
-    
-  </div>
 </details>
 
 
