@@ -35,10 +35,16 @@
   </summary>
   <br/>
   <div>
-     <ul>
-  <li>"Bad programmers worry about the code. Good programmers worry about data structures and their relationships."  - Linus Torvalds</li>
-  <li>"You can't go back and change the beginning,but you can start where you are and change the ending" - C.S Lewis </li>
-    </ul> 
+  <ul class="quote-list">
+    <li class="quote-item">
+        <span class="quote-text">"Bad programmers worry about the code. Good programmers worry about data structures and their relationships."</span>
+        <span class="author">— Linus Torvalds</span>
+    </li>
+    <li class="quote-item">
+        <span class="quote-text">"You can't go back and change the beginning, but you can start where you are and change the ending."</span>
+        <span class="author">— C.S. Lewis</span>
+    </li>
+  </ul>
     
   </div>
 </details>
