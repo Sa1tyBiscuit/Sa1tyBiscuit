@@ -1,5 +1,26 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5BF76E&random=false&width=435&lines=%E4%BD%A0%E5%A5%BD!+%F0%9F%91%8B+%2C+Welcome+to+my+github;Welcome+to+my+github+page)](https://git.io/typing-svg)
 
+<style>
+        /* Optional styling to align and format quotes */
+        .quote-list {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+        }
+        .quote-item {
+            margin-bottom: 1em;
+            font-family: Arial, sans-serif;
+        }
+        .quote-text {
+            font-weight: bold;
+        }
+        .author {
+            font-style: italic;
+            display: block;
+            margin-top: 0.5em;
+            text-align: right;
+        }
+</style>
 
 <details>
   <summary>
