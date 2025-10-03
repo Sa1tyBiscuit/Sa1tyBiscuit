@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5BF76E&random=false&width=435&lines=%E4%BD%A0%E5%A5%BD!+%F0%9F%91%8B+%2C+Welcome+to+my+github;Welcome+to+my+github+page)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=monserrat&weight=800&size=25&duration=4999&pause=1000&color=31F759&width=435&lines=Welcome+to+my+Github!)](https://git.io/typing-svg)
 
 <details>
   <summary>
