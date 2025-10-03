@@ -40,10 +40,7 @@
     </li>
     <li>
        "You can't go back and change the beginning, but you can start where you are and change the ending." C.S Lewis
-    </li>
     <li>
-      "Work hard in silence, let success be the noise" - Frank Ocean
-    </li>
   </ul>
 </details>
 
