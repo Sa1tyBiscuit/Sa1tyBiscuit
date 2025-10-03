@@ -40,7 +40,7 @@
     </li>
     <li>
        "You can't go back and change the beginning, but you can start where you are and change the ending." C.S Lewis
-    <li>
+    </li>
   </ul>
 </details>
 
